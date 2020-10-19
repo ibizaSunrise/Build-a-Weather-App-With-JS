@@ -1,4 +1,4 @@
-# Build-a-Weather-App-With-JS
+# Weather App With JS
 
 API: https://openweathermap.org/ (free)
 
